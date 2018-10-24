@@ -14,9 +14,9 @@ Captão Sisko: alerta vermelho! levantar escudos!
 Chefe O'Brien: phasers prontos!
 Captão Sisko: muito bem! fogo!
 começa uma sequência interativa de combate.
-O jogador é o Captão Sisko. Ele vai controlar o sistema de armas da Defiant. Setas esquerda e direita move o targeting das armas, espaço dispara phasers, p dispara torpedos fotônicos e q dispara torpedos quânticos.
+O jogador é o Captão Sisko. Ele vai controlar o sistema de armas da Defiant. Setas esquerda e direita move o targeting das armas, p dispara phasers, t dispara torpedos fotônicos e q dispara torpedos quânticos.
 O Captão receberá ajuda do resto da tripulação, onde cada um controla um banco de phaser. phasers dispararão altomaticamente para representar a ajuda da tripulação.
-Odo: Captão, use as Setas direita e esquerda para ajustar a mira das armas. Precione espaço para disparar phasers, p para disparar torpedos fotônicos e q para disparar torpedos quânticos.
+Odo: Captão, use as Setas direita e esquerda para ajustar a mira das armas. Precione p para disparar phasers, t para disparar torpedos fotônicos e q para disparar torpedos quânticos.
 quando a primeira nave é destruída:
 Odo: excelente trabalho Captão!
 quando a segunda nave é destruída:
@@ -65,4 +65,15 @@ Captão Sisko: Muito bem. Nos leve até a seção 31.
 Agora o jogador estará na Cede da organização conhecida como seção 31. ele deve andar pelo lugar e falar com Sloan, que dará missões para o jogador, que envolvem distruir construções importantes do Dominion. As mesmas táticas de combate são aplicáveis.
 quando Sisko chega até Sloan...
 Sloan: Captão! Seja bem-vindo a seção 31. Espero que você goste de nossas acomodações. Aqui os seus tripulantes receberão missões que serão dadas por mim, mas que você comandará.
-Captão Sisko: 
+Captão Sisko: Muito bom. Está mesmo na hora de acabar com essa guerra.
+Sloan: sua primeira missão é infiltrar-se no espaço do Dominion e destruir as caixas de branco. O branco é uma droda que da vida aos gemadares.
+Captão Sisko: quando partiremos?
+Sloan: imediatamente. não podemos perder tempo.
+Captão Sisko: faça apenas uma coisa para mim enquanto eu estiver fora: fique de olho no Quark. ele pode estar planejando negócios ilegais aqui.
+Sloan: pode deixar captão.
+enquanto isso, nos aposentos do Quark...
+Quark: essa será uma oportunidade de negócio inesquecível para todos os ferengis. nós vamos ganhar tanto lucro, tanto lucro! 
+Ron: sim, maninho. além do mais, o Brant não está aqui para nos empedir.
+Sloan: O Brant não está, mas eu estou!
+Quark: quem é você?
+Sloan: eu sou Sloan, o diretor dessa organização. O captão me pedio para ficar de olho em vocês, principalmente em você, Quark. Eu não vou permitir contrabando de látinun ou qualquer coisa ilegal aqui. vou mandar alguém ficar de olho em vocês.
